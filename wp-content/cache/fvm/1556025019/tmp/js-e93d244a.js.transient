@@ -1,0 +1,1 @@
+{"request":{"hurl":"https:\/\/n2speechtherapy.com\/wp-content\/themes\/vega\/assets\/js\/vega-wp-anim.js","inline":"","disable_minification":false,"type":"js","handle":"vega-wp-themejs-anim"},"log":"\/wp-content\/themes\/vega\/assets\/js\/vega-wp-anim.js\n","code":"wow=new WOW({offset:140});wow.init();\n","status":true}

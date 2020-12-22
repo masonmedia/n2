@@ -1,0 +1,2 @@
+[07-Jun-2018 05:36:14 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/andre065/public_html/n2speechtherapy.com/wp-includes/theme-compat/embed-content.php on line 13
+[07-Jun-2018 05:36:16 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/andre065/public_html/n2speechtherapy.com/wp-includes/theme-compat/embed-content.php on line 13

@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /wp-content/wppa-pl
+RewriteRule ^Gathering-Light-#2/(.*) /wp-content/uploads/wppa-source/album-2/$1 [NC]
+RewriteRule ^Gathering-Light/(.*) /wp-content/uploads/wppa-source/album-1/$1 [NC]
+</IfModule>

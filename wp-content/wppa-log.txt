@@ -1,0 +1,8 @@
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/uploads/wppa
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/uploads/wppa/thumbs
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/wppa-depot
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/wppa-depot/bassfx
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/uploads/wppa/watermarks
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/uploads/wppa/fonts
+{b}Obs{/b}: on:October 8, 2016 10:28 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/uploads/wppa/temp/
+{b}Obs{/b}: on:October 8, 2016 10:29 pm: bassfx: Created path: /Users/andrewmason/Documents/Websites/www.mason.dev/wp-content/wppa-pl

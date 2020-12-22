@@ -1,0 +1,7 @@
+[17-Nov-2017 08:37:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 60
+[17-Nov-2017 10:23:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 60
+[05-Jan-2019 17:04:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 59
+[06-Apr-2019 20:05:45 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 59
+[17-Sep-2019 19:43:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 69
+[27-Nov-2020 03:54:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 69
+[27-Nov-2020 03:54:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/andre065/public_html/n2speechtherapy.com/wp-content/plugins/hello.php on line 69

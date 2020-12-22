@@ -1,0 +1,10 @@
+PROCESSED on Sat, 05 Jan 2019 19:55:54 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/themes/vega/assets/css/animate.css
+/wp-content/themes/vega/assets/css/bootstrap.min.css
+/wp-content/themes/vega/assets/css/font-awesome.min.css
+/wp-content/themes/vega/assets/css/bootstrap-social.css
+/wp-content/themes/vega/style.css
+/wp-content/themes/vega/color-schemes/blue.css
+/wp-content/plugins/add-to-any/addtoany.min.css
+PROCESSED from https://n2speechtherapy.com/

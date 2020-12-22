@@ -1,0 +1,5 @@
+[14-Jun-2018 05:18:56 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/andre065/public_html/n2speechtherapy.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[14-Jun-2018 05:29:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/andre065/public_html/n2speechtherapy.com/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Nov-2018 00:45:19 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/andre065/public_html/n2speechtherapy.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 23:52:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/andre065/public_html/n2speechtherapy.com/wp-content/themes/twentyseventeen/search.php on line 13
+[03-Nov-2018 00:31:25 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/andre065/public_html/n2speechtherapy.com/wp-content/themes/twentyseventeen/comments.php on line 21

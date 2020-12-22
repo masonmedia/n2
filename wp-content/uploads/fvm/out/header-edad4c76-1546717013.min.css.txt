@@ -1,0 +1,11 @@
+PROCESSED on Fri, 11 Jan 2019 18:32:08 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/themes/vega/assets/css/animate.css
+/wp-content/themes/vega/assets/css/bootstrap.min.css
+/wp-content/themes/vega/assets/css/font-awesome.min.css
+/wp-content/themes/vega/assets/css/bootstrap-social.css
+/wp-content/themes/vega/style.css
+/wp-content/themes/vega/color-schemes/blue.css
+/wp-content/plugins/add-to-any/addtoany.min.css
+--- Merged 49.00 B of inlined CSS code for [addtoany] with md5 hash: 4907f6ec195f6b1b637bede0f23bc3eb ---
+PROCESSED from http://n2speechtherapy.com/
